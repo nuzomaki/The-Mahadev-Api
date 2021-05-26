@@ -19,7 +19,7 @@
 base url :  https://mahadev-api.herokuapp.com/api/v1/
 
 * edited : to get edited shiva images [endpoint](https://mahadev-api.herokuapp.com/api/v1/edited)
-* mahadev : to get rando mahadev images [endpoint](https://mahadev-api.herokuapp.com/api/v1/mahadev)
+* mahadev : to get random mahadev images [endpoint](https://mahadev-api.herokuapp.com/api/v1/mahadev)
 * shivlinga : to get random shivlinga images [endpoint](https://mahadev-api.herokuapp.com/api/v1/shivlinga)
 * random : to get random edited, mahadev or shivlinga images [endpoint](https://mahadev-api.herokuapp.com/api/v1/random)
 * today : to get daily date based random lord shiva images [endpoint](https://mahadev-api.herokuapp.com/api/v1/today)
